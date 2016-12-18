@@ -2,7 +2,7 @@
   "name": "elk-stack-professionals",
   "version": "0.13.0",
   "description": "Public Slack organizations made easy",
-  "repository": "rauchg/slackin",
+  "repository": "DanielBerman/slackin",
   "main": "dist/index",
   "files": [
     "dist",
